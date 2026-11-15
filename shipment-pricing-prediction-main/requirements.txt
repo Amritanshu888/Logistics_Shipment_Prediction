@@ -1,0 +1,22 @@
+boto3
+mypy-boto3-s3
+fastapi
+uvicorn
+Jinja2
+python-multipart
+ipykernel
+matplotlib
+PyYAML
+sklearn
+seaborn
+pandas
+pymongo
+notebook
+pymongo[srv]
+from-root
+xgboost
+dill
+evidently
+catboost
+category-encoders==2.5.1.post0
+-e .
